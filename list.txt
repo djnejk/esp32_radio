@@ -1,0 +1,494 @@
+Český rozhlas Radiožurnál
+https://radia.cz/api/v1/radio/cesky-rozhlas-radiozurnal.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radiozurnal/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radiozurnal/songs/now.json
+
+Český rozhlas Dvojka
+https://radia.cz/api/v1/radio/cesky-rozhlas-dvojka.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-dvojka/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-dvojka/songs/now.json
+
+Český rozhlas Plus
+https://radia.cz/api/v1/radio/cesky-rozhlas-plus.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-plus/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-plus/songs/now.json
+
+Český rozhlas Brno
+https://radia.cz/api/v1/radio/cesky-rozhlas-brno.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-brno/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-brno/songs/now.json
+
+Český rozhlas Vltava
+https://radia.cz/api/v1/radio/cesky-rozhlas-vltava.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-vltava/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-vltava/songs/now.json
+
+Český rozhlas Pohoda
+https://radia.cz/api/v1/radio/cesky-rozhlas-pohoda.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-pohoda/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-pohoda/songs/now.json
+
+Český rozhlas České Budějovice
+https://radia.cz/api/v1/radio/cesky-rozhlas-ceske-budejovice.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-ceske-budejovice/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-ceske-budejovice/songs/now.json
+
+Český rozhlas Jazz
+https://radia.cz/api/v1/radio/cesky-rozhlas-jazz.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-jazz/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-jazz/songs/now.json
+
+Český rozhlas Radio Wave
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-wave.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-wave/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-wave/songs/now.json
+
+Český rozhlas D-dur
+https://radia.cz/api/v1/radio/cesky-rozhlas-d-dur.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-d-dur/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-d-dur/songs/now.json
+
+Český rozhlas Plzeň
+https://radia.cz/api/v1/radio/cesky-rozhlas-plzen.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-plzen/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-plzen/songs/now.json
+
+Český rozhlas Hradec Králové
+https://radia.cz/api/v1/radio/cesky-rozhlas-hradec-kralove.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-hradec-kralove/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-hradec-kralove/songs/now.json
+
+Český rozhlas Sever
+https://radia.cz/api/v1/radio/cesky-rozhlas-sever.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-sever/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-sever/songs/now.json
+
+Český rozhlas Ostrava
+https://radia.cz/api/v1/radio/cesky-rozhlas-ostrava.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-ostrava/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-ostrava/songs/now.json
+
+Český rozhlas Olomouc
+https://radia.cz/api/v1/radio/cesky-rozhlas-olomouc.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-olomouc/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-olomouc/songs/now.json
+
+Český rozhlas Vysočina
+https://radia.cz/api/v1/radio/cesky-rozhlas-vysocina.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-vysocina/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-vysocina/songs/now.json
+
+Český rozhlas Pardubice
+https://radia.cz/api/v1/radio/cesky-rozhlas-pardubice.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-pardubice/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-pardubice/songs/now.json
+
+Český rozhlas Zlín
+https://radia.cz/api/v1/radio/cesky-rozhlas-zlin.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-zlin/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-zlin/songs/now.json
+
+Český rozhlas Střední Čechy
+https://radia.cz/api/v1/radio/cesky-rozhlas-region.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-region/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-region/songs/now.json
+
+Český rozhlas Rádio Junior
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-junior.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-junior/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-junior/songs/now.json
+
+Český rozhlas Karlovy Vary
+https://radia.cz/api/v1/radio/cesky-rozhlas-karlovy-vary.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-karlovy-vary/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-karlovy-vary/songs/now.json
+
+Český rozhlas Liberec
+https://radia.cz/api/v1/radio/cesky-rozhlas-liberec.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-liberec/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-liberec/songs/now.json
+
+Český rozhlas Rádio Praha
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-praha.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-praha/streams.json
+https://radia.cz/api/v1/radio/cesky-rozhlas-radio-praha/songs/now.json
+
+Český rozhlas Rádio Junior Písničky
+https://radia.cz/api/v1/radio/ceska-rozhlas-junior-mini-pisnicky.json
+https://radia.cz/api/v1/radio/ceska-rozhlas-junior-mini-pisnicky/streams.json
+https://radia.cz/api/v1/radio/ceska-rozhlas-junior-mini-pisnicky/songs/now.json
+
+Hitrádio Černá Hora
+https://radia.cz/api/v1/radio/cerna-hora.json
+https://radia.cz/api/v1/radio/cerna-hora/streams.json
+https://radia.cz/api/v1/radio/cerna-hora/songs/now.json
+
+Hitrádio Orion
+https://radia.cz/api/v1/radio/hitradio-orion.json
+https://radia.cz/api/v1/radio/hitradio-orion/streams.json
+https://radia.cz/api/v1/radio/hitradio-orion/songs/now.json
+
+Hitrádio City 93,7 FM
+https://radia.cz/api/v1/radio/hitradio-city-praha.json
+https://radia.cz/api/v1/radio/hitradio-city-praha/streams.json
+https://radia.cz/api/v1/radio/hitradio-city-praha/songs/now.json
+
+Hitrádio Osmdesátka
+https://radia.cz/api/v1/radio/hitradio-80tka.json
+https://radia.cz/api/v1/radio/hitradio-80tka/streams.json
+https://radia.cz/api/v1/radio/hitradio-80tka/songs/now.json
+
+Hitrádio FM Plus
+https://radia.cz/api/v1/radio/hitradio-fm-plus.json
+https://radia.cz/api/v1/radio/hitradio-fm-plus/streams.json
+https://radia.cz/api/v1/radio/hitradio-fm-plus/songs/now.json
+
+Hitrádio Devadesátka
+https://radia.cz/api/v1/radio/hitradio-90tka.json
+https://radia.cz/api/v1/radio/hitradio-90tka/streams.json
+https://radia.cz/api/v1/radio/hitradio-90tka/songs/now.json
+
+Hitrádio Faktor
+https://radia.cz/api/v1/radio/hitradio-faktor.json
+https://radia.cz/api/v1/radio/hitradio-faktor/streams.json
+https://radia.cz/api/v1/radio/hitradio-faktor/songs/now.json
+
+Hitrádio Vysočina
+https://radia.cz/api/v1/radio/hitradio-vysocina.json
+https://radia.cz/api/v1/radio/hitradio-vysocina/streams.json
+https://radia.cz/api/v1/radio/hitradio-vysocina/songs/now.json
+
+Hitrádio Zlín
+https://radia.cz/api/v1/radio/hitradio-zlin.json
+https://radia.cz/api/v1/radio/hitradio-zlin/streams.json
+https://radia.cz/api/v1/radio/hitradio-zlin/songs/now.json
+
+Hitrádio Zóna lásky
+https://radia.cz/api/v1/radio/hitradio-zona-lasky.json
+https://radia.cz/api/v1/radio/hitradio-zona-lasky/streams.json
+https://radia.cz/api/v1/radio/hitradio-zona-lasky/songs/now.json
+
+Hitrádio City Brno
+https://radia.cz/api/v1/radio/hitradio-city-brno.json
+https://radia.cz/api/v1/radio/hitradio-city-brno/streams.json
+https://radia.cz/api/v1/radio/hitradio-city-brno/songs/now.json
+
+Hitrádio PopRock
+https://radia.cz/api/v1/radio/hitradio-poprock.json
+https://radia.cz/api/v1/radio/hitradio-poprock/streams.json
+https://radia.cz/api/v1/radio/hitradio-poprock/songs/now.json
+
+Hitrádio North Music
+https://radia.cz/api/v1/radio/hitradio-north-music.json
+https://radia.cz/api/v1/radio/hitradio-north-music/streams.json
+https://radia.cz/api/v1/radio/hitradio-north-music/songs/now.json
+
+Hitrádio Milénium
+https://radia.cz/api/v1/radio/hitradio-milenium.json
+https://radia.cz/api/v1/radio/hitradio-milenium/streams.json
+https://radia.cz/api/v1/radio/hitradio-milenium/songs/now.json
+
+Hitrádio Contact
+https://radia.cz/api/v1/radio/hitradio-contact.json
+https://radia.cz/api/v1/radio/hitradio-contact/streams.json
+https://radia.cz/api/v1/radio/hitradio-contact/songs/now.json
+
+Hitrádio Desítka
+https://radia.cz/api/v1/radio/hitradio-desitka.json
+https://radia.cz/api/v1/radio/hitradio-desitka/streams.json
+https://radia.cz/api/v1/radio/hitradio-desitka/songs/now.json
+
+Fajn Radio
+https://radia.cz/api/v1/radio/fajn-radio.json
+https://radia.cz/api/v1/radio/fajn-radio/streams.json
+https://radia.cz/api/v1/radio/fajn-radio/songs/now.json
+
+Fajn Helax
+https://radia.cz/api/v1/radio/fajn-helax.json
+https://radia.cz/api/v1/radio/fajn-helax/streams.json
+https://radia.cz/api/v1/radio/fajn-helax/songs/now.json
+
+Fajn Fresh Radio
+https://radia.cz/api/v1/radio/fajn-radio-fresh.json
+https://radia.cz/api/v1/radio/fajn-radio-fresh/streams.json
+https://radia.cz/api/v1/radio/fajn-radio-fresh/songs/now.json
+
+Fajn Vibe
+https://radia.cz/api/v1/radio/fajn-vibe.json
+https://radia.cz/api/v1/radio/fajn-vibe/streams.json
+https://radia.cz/api/v1/radio/fajn-vibe/songs/now.json
+
+Rock Radio
+https://radia.cz/api/v1/radio/rock-radio.json
+https://radia.cz/api/v1/radio/rock-radio/streams.json
+https://radia.cz/api/v1/radio/rock-radio/songs/now.json
+
+Rock rádio – CZ Rock
+https://radia.cz/api/v1/radio/rock-radio-cz-rock.json
+https://radia.cz/api/v1/radio/rock-radio-cz-rock/streams.json
+https://radia.cz/api/v1/radio/rock-radio-cz-rock/songs/now.json
+
+Rock rádio – Hard and Heavy
+https://radia.cz/api/v1/radio/rock-radio-hard-and-heavy.json
+https://radia.cz/api/v1/radio/rock-radio-hard-and-heavy/streams.json
+https://radia.cz/api/v1/radio/rock-radio-hard-and-heavy/songs/now.json
+
+Rock Radio Morava
+https://radia.cz/api/v1/radio/rock-radio-morava.json
+https://radia.cz/api/v1/radio/rock-radio-morava/streams.json
+https://radia.cz/api/v1/radio/rock-radio-morava/songs/now.json
+
+Rock rádio - Legends of Rock
+https://radia.cz/api/v1/radio/rock-radio-legends-of-rock.json
+https://radia.cz/api/v1/radio/rock-radio-legends-of-rock/streams.json
+https://radia.cz/api/v1/radio/rock-radio-legends-of-rock/songs/now.json
+
+Rock rádio – Alternative Rock
+https://radia.cz/api/v1/radio/rock-radio-alternative-rock.json
+https://radia.cz/api/v1/radio/rock-radio-alternative-rock/streams.json
+https://radia.cz/api/v1/radio/rock-radio-alternative-rock/songs/now.json
+
+Rádio BLANÍK
+https://radia.cz/api/v1/radio/radio-blanik.json
+https://radia.cz/api/v1/radio/radio-blanik/streams.json
+https://radia.cz/api/v1/radio/radio-blanik/songs/now.json
+
+Blaník CZ
+https://radia.cz/api/v1/radio/blanik-cz.json
+https://radia.cz/api/v1/radio/blanik-cz/streams.json
+https://radia.cz/api/v1/radio/blanik-cz/songs/now.json
+
+BLANÍK Oldies
+https://radia.cz/api/v1/radio/blanik-oldies.json
+https://radia.cz/api/v1/radio/blanik-oldies/streams.json
+https://radia.cz/api/v1/radio/blanik-oldies/songs/now.json
+
+Rádio BLANÍK - Morava a Slezsko
+https://radia.cz/api/v1/radio/blanik-morava.json
+https://radia.cz/api/v1/radio/blanik-morava/streams.json
+https://radia.cz/api/v1/radio/blanik-morava/songs/now.json
+
+Rádio Humor
+https://radia.cz/api/v1/radio/radio-humor.json
+https://radia.cz/api/v1/radio/radio-humor/streams.json
+https://radia.cz/api/v1/radio/radio-humor/songs/now.json
+
+Rádio Povídka
+https://radia.cz/api/v1/radio/radio-povidka.json
+https://radia.cz/api/v1/radio/radio-povidka/streams.json
+https://radia.cz/api/v1/radio/radio-povidka/songs/now.json
+
+Rádio Pohádka
+https://radia.cz/api/v1/radio/radio-pohadka.json
+https://radia.cz/api/v1/radio/radio-pohadka/streams.json
+https://radia.cz/api/v1/radio/radio-pohadka/songs/now.json
+
+Radio Kiss
+https://radia.cz/api/v1/radio/radio-kiss.json
+https://radia.cz/api/v1/radio/radio-kiss/streams.json
+https://radia.cz/api/v1/radio/radio-kiss/songs/now.json
+
+Radio Beat
+https://radia.cz/api/v1/radio/radio-beat.json
+https://radia.cz/api/v1/radio/radio-beat/streams.json
+https://radia.cz/api/v1/radio/radio-beat/songs/now.json
+
+Radio Depeche Mode
+https://radia.cz/api/v1/radio/radio-depeche-mode.json
+https://radia.cz/api/v1/radio/radio-depeche-mode/streams.json
+https://radia.cz/api/v1/radio/radio-depeche-mode/songs/now.json
+
+Radio Folk
+https://radia.cz/api/v1/radio/radio-folk.json
+https://radia.cz/api/v1/radio/radio-folk/streams.json
+https://radia.cz/api/v1/radio/radio-folk/songs/now.json
+
+Radio Chillout
+https://radia.cz/api/v1/radio/radio-chillout.json
+https://radia.cz/api/v1/radio/radio-chillout/streams.json
+https://radia.cz/api/v1/radio/radio-chillout/songs/now.json
+
+Rádio Tloskov
+https://radia.cz/api/v1/radio/radio-tloskov.json
+https://radia.cz/api/v1/radio/radio-tloskov/streams.json
+https://radia.cz/api/v1/radio/radio-tloskov/songs/now.json
+
+Radio Oldies Rock
+https://radia.cz/api/v1/radio/radio-oldies-rock.json
+https://radia.cz/api/v1/radio/radio-oldies-rock/streams.json
+https://radia.cz/api/v1/radio/radio-oldies-rock/songs/now.json
+
+Rádio Koleda
+https://radia.cz/api/v1/radio/radio-koleda.json
+https://radia.cz/api/v1/radio/radio-koleda/streams.json
+https://radia.cz/api/v1/radio/radio-koleda/songs/now.json
+
+Radio Spin 96,2 FM
+https://radia.cz/api/v1/radio/radio-spin-962-fm.json
+https://radia.cz/api/v1/radio/radio-spin-962-fm/streams.json
+https://radia.cz/api/v1/radio/radio-spin-962-fm/songs/now.json
+
+Rádio Ponte Records
+https://radia.cz/api/v1/radio/ponte-records.json
+https://radia.cz/api/v1/radio/ponte-records/streams.json
+https://radia.cz/api/v1/radio/ponte-records/songs/now.json
+
+Rádio Benešov City
+https://radia.cz/api/v1/radio/benesov-city.json
+https://radia.cz/api/v1/radio/benesov-city/streams.json
+https://radia.cz/api/v1/radio/benesov-city/songs/now.json
+
+Rádio MB
+https://radia.cz/api/v1/radio/radio-mb.json
+https://radia.cz/api/v1/radio/radio-mb/streams.json
+https://radia.cz/api/v1/radio/radio-mb/songs/now.json
+
+Rádio Vratislavice
+https://radia.cz/api/v1/radio/vratislavice.json
+https://radia.cz/api/v1/radio/vratislavice/streams.json
+https://radia.cz/api/v1/radio/vratislavice/songs/now.json
+
+Rádio BojlerRoom
+https://radia.cz/api/v1/radio/bojler-room.json
+https://radia.cz/api/v1/radio/bojler-room/streams.json
+https://radia.cz/api/v1/radio/bojler-room/songs/now.json
+
+Radio 1
+https://radia.cz/api/v1/radio/radio-1.json
+https://radia.cz/api/v1/radio/radio-1/streams.json
+https://radia.cz/api/v1/radio/radio-1/songs/now.json
+
+Rádio In
+https://radia.cz/api/v1/radio/radio-in.json
+https://radia.cz/api/v1/radio/radio-in/streams.json
+https://radia.cz/api/v1/radio/radio-in/songs/now.json
+
+Rádio Kamina Boat
+https://radia.cz/api/v1/radio/kamina-boat.json
+https://radia.cz/api/v1/radio/kamina-boat/streams.json
+https://radia.cz/api/v1/radio/kamina-boat/songs/now.json
+
+Rádio Kašpar
+https://radia.cz/api/v1/radio/radio-kaspar.json
+https://radia.cz/api/v1/radio/radio-kaspar/streams.json
+https://radia.cz/api/v1/radio/radio-kaspar/songs/now.json
+
+Radio Domino
+https://radia.cz/api/v1/radio/domino.json
+https://radia.cz/api/v1/radio/domino/streams.json
+https://radia.cz/api/v1/radio/domino/songs/now.json
+
+Rádio Svit Zlín
+https://radia.cz/api/v1/radio/radio-svit-zlin.json
+https://radia.cz/api/v1/radio/radio-svit-zlin/streams.json
+https://radia.cz/api/v1/radio/radio-svit-zlin/songs/now.json
+
+Rádio VYŠŠÍ HLAS
+https://radia.cz/api/v1/radio/vyssi-hlas.json
+https://radia.cz/api/v1/radio/vyssi-hlas/streams.json
+https://radia.cz/api/v1/radio/vyssi-hlas/songs/now.json
+
+Rádio O 106
+https://radia.cz/api/v1/radio/radio-o106.json
+https://radia.cz/api/v1/radio/radio-o106/streams.json
+https://radia.cz/api/v1/radio/radio-o106/songs/now.json
+
+Rádio Zdraví
+https://radia.cz/api/v1/radio/radio-zdravi.json
+https://radia.cz/api/v1/radio/radio-zdravi/streams.json
+https://radia.cz/api/v1/radio/radio-zdravi/songs/now.json
+
+Radio 66
+https://radia.cz/api/v1/radio/route-66.json
+https://radia.cz/api/v1/radio/route-66/streams.json
+https://radia.cz/api/v1/radio/route-66/songs/now.json
+
+Rádio BOHEMIA
+https://radia.cz/api/v1/radio/bohemia.json
+https://radia.cz/api/v1/radio/bohemia/streams.json
+https://radia.cz/api/v1/radio/bohemia/songs/now.json
+
+Radio Prague International
+https://radia.cz/api/v1/radio/radio-prague-international.json
+https://radia.cz/api/v1/radio/radio-prague-international/streams.json
+https://radia.cz/api/v1/radio/radio-prague-international/songs/now.json
+
+Signál Rádio
+https://radia.cz/api/v1/radio/signal-radio.json
+https://radia.cz/api/v1/radio/signal-radio/streams.json
+https://radia.cz/api/v1/radio/signal-radio/songs/now.json
+
+Country Radio
+https://radia.cz/api/v1/radio/country-radio.json
+https://radia.cz/api/v1/radio/country-radio/streams.json
+https://radia.cz/api/v1/radio/country-radio/songs/now.json
+
+Alternative Times Radio
+https://radia.cz/api/v1/radio/alternative-times-radio.json
+https://radia.cz/api/v1/radio/alternative-times-radio/streams.json
+https://radia.cz/api/v1/radio/alternative-times-radio/songs/now.json
+
+E-Rádio JAZZINEC
+https://radia.cz/api/v1/radio/e-radio-jazzinec.json
+https://radia.cz/api/v1/radio/e-radio-jazzinec/streams.json
+https://radia.cz/api/v1/radio/e-radio-jazzinec/songs/now.json
+
+Roma Rádio
+https://radia.cz/api/v1/radio/roma-radio.json
+https://radia.cz/api/v1/radio/roma-radio/streams.json
+https://radia.cz/api/v1/radio/roma-radio/songs/now.json
+
+WebRádio Epigon
+https://radia.cz/api/v1/radio/webradio-epigon.json
+https://radia.cz/api/v1/radio/webradio-epigon/streams.json
+https://radia.cz/api/v1/radio/webradio-epigon/songs/now.json
+
+Kostka Rádio
+https://radia.cz/api/v1/radio/kostka-radio.json
+https://radia.cz/api/v1/radio/kostka-radio/streams.json
+https://radia.cz/api/v1/radio/kostka-radio/songs/now.json
+
+ZUN Rádio
+https://radia.cz/api/v1/radio/zun-radio.json
+https://radia.cz/api/v1/radio/zun-radio/streams.json
+https://radia.cz/api/v1/radio/zun-radio/songs/now.json
+
+DNB TV Radio
+https://radia.cz/api/v1/radio/dnb-tv-radio.json
+https://radia.cz/api/v1/radio/dnb-tv-radio/streams.json
+https://radia.cz/api/v1/radio/dnb-tv-radio/songs/now.json
+
+Radiožurnál Sport
+https://radia.cz/api/v1/radio/radiozurnal-sport.json
+https://radia.cz/api/v1/radio/radiozurnal-sport/streams.json
+https://radia.cz/api/v1/radio/radiozurnal-sport/songs/now.json
+
+HipHopVibes Radio
+https://radia.cz/api/v1/radio/hiphopvibes-radio.json
+https://radia.cz/api/v1/radio/hiphopvibes-radio/streams.json
+https://radia.cz/api/v1/radio/hiphopvibes-radio/songs/now.json
+
+Relaxace - Zpěv ptáků
+https://radia.cz/api/v1/radio/relaxace-zpev-ptaku.json
+https://radia.cz/api/v1/radio/relaxace-zpev-ptaku/streams.json
+https://radia.cz/api/v1/radio/relaxace-zpev-ptaku/songs/now.json
+
+Relaxace - Letní bouřka
+https://radia.cz/api/v1/radio/relaxace-letni-bourka.json
+https://radia.cz/api/v1/radio/relaxace-letni-bourka/streams.json
+https://radia.cz/api/v1/radio/relaxace-letni-bourka/songs/now.json
+
+Relaxace - Moře
+https://radia.cz/api/v1/radio/relaxace-more.json
+https://radia.cz/api/v1/radio/relaxace-more/streams.json
+https://radia.cz/api/v1/radio/relaxace-more/songs/now.json
+
+Relaxace - Jedoucí Vlak
+https://radia.cz/api/v1/radio/relaxace-jedouci-vlak.json
+https://radia.cz/api/v1/radio/relaxace-jedouci-vlak/streams.json
+https://radia.cz/api/v1/radio/relaxace-jedouci-vlak/songs/now.json
+
+Relaxace - Oheň v krbu
+https://radia.cz/api/v1/radio/relaxace-ohen-v-krbu.json
+https://radia.cz/api/v1/radio/relaxace-ohen-v-krbu/streams.json
+https://radia.cz/api/v1/radio/relaxace-ohen-v-krbu/songs/now.json

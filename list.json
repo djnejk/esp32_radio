@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "cesky-rozhlas-radiozurnal",
+    "name": "Český rozhlas Radiožurnál"
+  },
+  {
+    "slug": "cesky-rozhlas-dvojka",
+    "name": "Český rozhlas Dvojka"
+  },
+  {
+    "slug": "cesky-rozhlas-plus",
+    "name": "Český rozhlas Plus"
+  },
+  {
+    "slug": "cesky-rozhlas-brno",
+    "name": "Český rozhlas Brno"
+  },
+  {
+    "slug": "cesky-rozhlas-vltava",
+    "name": "Český rozhlas Vltava"
+  },
+  {
+    "slug": "cesky-rozhlas-pohoda",
+    "name": "Český rozhlas Pohoda"
+  },
+  {
+    "slug": "cesky-rozhlas-ceske-budejovice",
+    "name": "Český rozhlas České Budějovice"
+  },
+  {
+    "slug": "cesky-rozhlas-jazz",
+    "name": "Český rozhlas Jazz"
+  },
+  {
+    "slug": "cesky-rozhlas-radio-wave",
+    "name": "Český rozhlas Radio Wave"
+  },
+  {
+    "slug": "cesky-rozhlas-d-dur",
+    "name": "Český rozhlas D-dur"
+  },
+  {
+    "slug": "cesky-rozhlas-plzen",
+    "name": "Český rozhlas Plzeň"
+  },
+  {
+    "slug": "cesky-rozhlas-hradec-kralove",
+    "name": "Český rozhlas Hradec Králové"
+  },
+  {
+    "slug": "cesky-rozhlas-sever",
+    "name": "Český rozhlas Sever"
+  },
+  {
+    "slug": "cesky-rozhlas-ostrava",
+    "name": "Český rozhlas Ostrava"
+  },
+  {
+    "slug": "cesky-rozhlas-olomouc",
+    "name": "Český rozhlas Olomouc"
+  },
+  {
+    "slug": "cesky-rozhlas-vysocina",
+    "name": "Český rozhlas Vysočina"
+  },
+  {
+    "slug": "cesky-rozhlas-pardubice",
+    "name": "Český rozhlas Pardubice"
+  },
+  {
+    "slug": "cesky-rozhlas-zlin",
+    "name": "Český rozhlas Zlín"
+  },
+  {
+    "slug": "cesky-rozhlas-region",
+    "name": "Český rozhlas Střední Čechy"
+  },
+  {
+    "slug": "cesky-rozhlas-radio-junior",
+    "name": "Český rozhlas Rádio Junior"
+  },
+  {
+    "slug": "cesky-rozhlas-karlovy-vary",
+    "name": "Český rozhlas Karlovy Vary"
+  },
+  {
+    "slug": "cesky-rozhlas-liberec",
+    "name": "Český rozhlas Liberec"
+  },
+  {
+    "slug": "cesky-rozhlas-radio-praha",
+    "name": "Český rozhlas Rádio Praha"
+  },
+  {
+    "slug": "ceska-rozhlas-junior-mini-pisnicky",
+    "name": "Český rozhlas Rádio Junior Písničky"
+  },
+  {
+    "slug": "cerna-hora",
+    "name": "Hitrádio Černá Hora"
+  },
+  {
+    "slug": "hitradio-orion",
+    "name": "Hitrádio Orion"
+  },
+  {
+    "slug": "hitradio-city-praha",
+    "name": "Hitrádio City 93,7 FM"
+  },
+  {
+    "slug": "hitradio-80tka",
+    "name": "Hitrádio Osmdesátka"
+  },
+  {
+    "slug": "hitradio-fm-plus",
+    "name": "Hitrádio FM Plus"
+  },
+  {
+    "slug": "hitradio-90tka",
+    "name": "Hitrádio Devadesátka"
+  },
+  {
+    "slug": "hitradio-faktor",
+    "name": "Hitrádio Faktor"
+  },
+  {
+    "slug": "hitradio-vysocina",
+    "name": "Hitrádio Vysočina"
+  },
+  {
+    "slug": "hitradio-zlin",
+    "name": "Hitrádio Zlín"
+  },
+  {
+    "slug": "hitradio-zona-lasky",
+    "name": "Hitrádio Zóna lásky"
+  },
+  {
+    "slug": "hitradio-city-brno",
+    "name": "Hitrádio City Brno"
+  },
+  {
+    "slug": "hitradio-poprock",
+    "name": "Hitrádio PopRock"
+  },
+  {
+    "slug": "hitradio-north-music",
+    "name": "Hitrádio North Music"
+  },
+  {
+    "slug": "hitradio-milenium",
+    "name": "Hitrádio Milénium"
+  },
+  {
+    "slug": "hitradio-contact",
+    "name": "Hitrádio Contact"
+  },
+  {
+    "slug": "hitradio-desitka",
+    "name": "Hitrádio Desítka"
+  },
+  {
+    "slug": "fajn-radio",
+    "name": "Fajn Radio"
+  },
+  {
+    "slug": "fajn-helax",
+    "name": "Fajn Helax"
+  },
+  {
+    "slug": "fajn-radio-fresh",
+    "name": "Fajn Fresh Radio"
+  },
+  {
+    "slug": "fajn-vibe",
+    "name": "Fajn Vibe"
+  },
+  {
+    "slug": "rock-radio",
+    "name": "Rock Radio"
+  },
+  {
+    "slug": "rock-radio-cz-rock",
+    "name": "Rock rádio – CZ Rock"
+  },
+  {
+    "slug": "rock-radio-hard-and-heavy",
+    "name": "Rock rádio – Hard and Heavy"
+  },
+  {
+    "slug": "rock-radio-morava",
+    "name": "Rock Radio Morava"
+  },
+  {
+    "slug": "rock-radio-legends-of-rock",
+    "name": "Rock rádio - Legends of Rock"
+  },
+  {
+    "slug": "rock-radio-alternative-rock",
+    "name": "Rock rádio – Alternative Rock"
+  },
+  {
+    "slug": "radio-blanik",
+    "name": "Rádio BLANÍK"
+  },
+  {
+    "slug": "blanik-cz",
+    "name": "Blaník CZ"
+  },
+  {
+    "slug": "blanik-oldies",
+    "name": "BLANÍK Oldies"
+  },
+  {
+    "slug": "blanik-morava",
+    "name": "Rádio BLANÍK - Morava a Slezsko"
+  },
+  {
+    "slug": "radio-humor",
+    "name": "Rádio Humor"
+  },
+  {
+    "slug": "radio-povidka",
+    "name": "Rádio Povídka"
+  },
+  {
+    "slug": "radio-pohadka",
+    "name": "Rádio Pohádka"
+  },
+  {
+    "slug": "radio-kiss",
+    "name": "Radio Kiss"
+  },
+  {
+    "slug": "radio-beat",
+    "name": "Radio Beat"
+  },
+  {
+    "slug": "radio-depeche-mode",
+    "name": "Radio Depeche Mode"
+  },
+  {
+    "slug": "radio-folk",
+    "name": "Radio Folk"
+  },
+  {
+    "slug": "radio-chillout",
+    "name": "Radio Chillout"
+  },
+  {
+    "slug": "radio-tloskov",
+    "name": "Rádio Tloskov"
+  },
+  {
+    "slug": "radio-oldies-rock",
+    "name": "Radio Oldies Rock"
+  },
+  {
+    "slug": "radio-koleda",
+    "name": "Rádio Koleda"
+  },
+  {
+    "slug": "radio-spin-962-fm",
+    "name": "Radio Spin 96,2 FM"
+  },
+  {
+    "slug": "ponte-records",
+    "name": "Rádio Ponte Records"
+  },
+  {
+    "slug": "benesov-city",
+    "name": "Rádio Benešov City"
+  },
+  {
+    "slug": "radio-mb",
+    "name": "Rádio MB"
+  },
+  {
+    "slug": "vratislavice",
+    "name": "Rádio Vratislavice"
+  },
+  {
+    "slug": "bojler-room",
+    "name": "Rádio BojlerRoom"
+  },
+  {
+    "slug": "radio-1",
+    "name": "Radio 1"
+  },
+  {
+    "slug": "radio-in",
+    "name": "Rádio In"
+  },
+  {
+    "slug": "kamina-boat",
+    "name": "Rádio Kamina Boat"
+  },
+  {
+    "slug": "radio-kaspar",
+    "name": "Rádio Kašpar"
+  },
+  {
+    "slug": "domino",
+    "name": "Radio Domino"
+  },
+  {
+    "slug": "radio-svit-zlin",
+    "name": "Rádio Svit Zlín"
+  },
+  {
+    "slug": "vyssi-hlas",
+    "name": "Rádio VYŠŠÍ HLAS"
+  },
+  {
+    "slug": "radio-o106",
+    "name": "Rádio O 106"
+  },
+  {
+    "slug": "radio-zdravi",
+    "name": "Rádio Zdraví"
+  },
+  {
+    "slug": "route-66",
+    "name": "Radio 66"
+  },
+  {
+    "slug": "bohemia",
+    "name": "Rádio BOHEMIA"
+  },
+  {
+    "slug": "radio-prague-international",
+    "name": "Radio Prague International"
+  },
+  {
+    "slug": "signal-radio",
+    "name": "Signál Rádio"
+  },
+  {
+    "slug": "country-radio",
+    "name": "Country Radio"
+  },
+  {
+    "slug": "alternative-times-radio",
+    "name": "Alternative Times Radio"
+  },
+  {
+    "slug": "e-radio-jazzinec",
+    "name": "E-Rádio JAZZINEC"
+  },
+  {
+    "slug": "roma-radio",
+    "name": "Roma Rádio"
+  },
+  {
+    "slug": "webradio-epigon",
+    "name": "WebRádio Epigon"
+  },
+  {
+    "slug": "kostka-radio",
+    "name": "Kostka Rádio"
+  },
+  {
+    "slug": "zun-radio",
+    "name": "ZUN Rádio"
+  },
+  {
+    "slug": "dnb-tv-radio",
+    "name": "DNB TV Radio"
+  },
+  {
+    "slug": "radiozurnal-sport",
+    "name": "Radiožurnál Sport"
+  },
+  {
+    "slug": "hiphopvibes-radio",
+    "name": "HipHopVibes Radio"
+  },
+  {
+    "slug": "relaxace-zpev-ptaku",
+    "name": "Relaxace - Zpěv ptáků"
+  },
+  {
+    "slug": "relaxace-letni-bourka",
+    "name": "Relaxace - Letní bouřka"
+  },
+  {
+    "slug": "relaxace-more",
+    "name": "Relaxace - Moře"
+  },
+  {
+    "slug": "relaxace-jedouci-vlak",
+    "name": "Relaxace - Jedoucí Vlak"
+  },
+  {
+    "slug": "relaxace-ohen-v-krbu",
+    "name": "Relaxace - Oheň v krbu"
+  }
+]
